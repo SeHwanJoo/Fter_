@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\project\fter\Fter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\project\fter\Fter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b8851966d3de7f7788b8351504b9ad3a73027660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\fter\Fter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a96f9a791d8ac27095181b0b5c58ee9ec5d8355">
+        <dex dex="C:\project\fter\Fter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e6fc4e8f7fc3e09de3655665a86e67a880febeb\classes.dex" />
+    </item>
+
+</items>
